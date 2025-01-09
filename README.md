@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h2 align="center">Olá, Meu nome é Eduardo Souza, sou um desenvolvedor Full-Stack.</h2>
+<h2 align="center">Hello, My name is Eduardo Souza, I'm a Full-Stack developer.</h2>
 
 ###
 
