@@ -10,6 +10,14 @@
 
 ###
 
+<p align="left">🎓I am a developer from Brazil, with a technologist in Systems Development.</p>
+
+###
+
+<p align="left">🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning. This way I will be able to use these technologies to solve different types of problems.</p>
+
+###
+
 <br clear="both">
 
 <div align="center">
