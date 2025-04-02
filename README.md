@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://portfolio-esdev.netlify.app/Assets/logo/FaviIcon.svg"  />
+  <img height="200" src="https://portfolio-esdev.netlify.app/Assets/logo/Logo.png"  />
 </div>
 
 ###
