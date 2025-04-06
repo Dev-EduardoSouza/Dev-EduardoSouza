@@ -68,6 +68,9 @@
   <a href="https://api.whatsapp.com/send?phone=5575998786277&text=Ol%C3%A1%20quero%20fazer%20um%20or%C3%A7amento." target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/eduardo-souza-5309b135a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
