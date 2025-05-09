@@ -56,17 +56,17 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/eduardo_souzasl/" target="_blank">
+  <a href="https://www.instagram.com/eduardo_souzasl/" target="_blank" title="Instagram">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=souzalimaluizeduardo@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=souzalimaluizeduardo@gmail.com" target="_blank" title="E-mail">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5575998786277&text=Ol%C3%A1%20quero%20fazer%20um%20or%C3%A7amento." target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5575998786277&text=Ol%C3%A1%20quero%20fazer%20um%20or%C3%A7amento." target="_blank" title="Whatsapp">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"/>
   </a>
   <a href="https://www.linkedin.com/in/eduardo-souza-5309b135a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" title="Linkedin"/>
   </a>
 </div>
 
