@@ -20,11 +20,11 @@
 
 ###
 
-<p align="left">🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS) na Unijorge e atuando profissionalmente com desenvolvimento web.</p>
+<p align="left">🎓 Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Unijorge e atuando profissionalmente com desenvolvimento web.</p>
 
 <p align="left">💼 Atualmente sou Desenvolvedor FullStack Jr. na Asn Software, onde trabalho em todas as camadas da aplicação, desde a modelagem de bancos de dados relacionais até a criação de interfaces otimizadas, sempre com foco em Clean Code e conteinerização.</p>
 
-<p align="left">🔭 Meu foco no momento é o aprimoramento do meu portfólio pessoal e o estudo contínuo de arquitetura de software.</p>
+<p align="left">🔭 Meu foco no momento é finalizar a nova versão do meu portfólio e seguir estudando arquitetura de software.</p>
 
 <p align="left">🎲 Nas horas vagas, você me encontra lendo sobre filosofia estoica, fazendo maratonas de O Senhor dos Anéis, curtindo o som do Guns N' Roses ou jogando um bom RPG de mesa.</p>
 
