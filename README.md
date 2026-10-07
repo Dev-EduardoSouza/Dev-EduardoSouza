@@ -15,7 +15,7 @@
 
 <br clear="both">
 
-<h2 align="center">Olá, meu nome é Eduardo Souza 👋</h2>
+<h2 align="center">Olá, meu nome é Eduardo Souza</h2>
 <h4 align="center">Desenvolvedor FullStack Jr. em Java/Spring e PHP/Laravel</h4>
 
 ###
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">Stack e ferramentas 🔥</h3>
+<h3 align="left">Stack e ferramentas</h3>
 
 ###
 
@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-<h3 align="left">Contato 📞</h3>
+<h3 align="left">Contato</h3>
 
 ###
 
