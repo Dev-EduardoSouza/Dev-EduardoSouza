@@ -16,13 +16,13 @@
 <br clear="both">
 
 <h2 align="center">Olá, meu nome é Eduardo Souza 👋</h2>
-<h4 align="center">Desenvolvedor FullStack Jr. apaixonado por criar soluções eficientes e com excelente UI/UX.</h4>
+<h4 align="center">Desenvolvedor FullStack Jr. em Java/Spring e PHP/Laravel</h4>
 
 ###
 
 <p align="left">🎓 Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Unijorge e atuando profissionalmente com desenvolvimento web.</p>
 
-<p align="left">💼 Atualmente sou Desenvolvedor FullStack Jr. na Asn Software, onde trabalho em todas as camadas da aplicação, desde a modelagem de bancos de dados relacionais até a criação de interfaces otimizadas, sempre com foco em Clean Code e conteinerização.</p>
+<p align="left">💼 Na Asn Software, onde sou Jr., trabalho em todas as camadas da aplicação: modelo bancos de dados relacionais, construo as interfaces e cuido de Clean Code e conteinerização.</p>
 
 <p align="left">🔭 Meu foco no momento é finalizar a nova versão do meu portfólio e seguir estudando arquitetura de software.</p>
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">Stack e Ferramentas 🔥</h3>
+<h3 align="left">Stack e ferramentas 🔥</h3>
 
 ###
 

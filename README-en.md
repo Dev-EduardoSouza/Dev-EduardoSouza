@@ -16,13 +16,13 @@
 <br clear="both">
 
 <h2 align="center">Hello, my name is Eduardo Souza 👋</h2>
-<h4 align="center">Jr. FullStack Developer passionate about creating efficient solutions with excellent UI/UX.</h4>
+<h4 align="center">Jr. FullStack Developer working with Java/Spring and PHP/Laravel</h4>
 
 ###
 
 <p align="left">🎓 In the 3rd semester of Systems Analysis and Development (ADS) at Unijorge and working professionally with web development.</p>
 
-<p align="left">💼 I am currently a Jr. FullStack Developer at Asn Software, where I work across all application layers, from relational database modeling to creating optimized interfaces, always focusing on Clean Code and containerization.</p>
+<p align="left">💼 At Asn Software, where I'm a Jr. developer, I work across every layer of the application: I model relational databases, build the interfaces, and look after Clean Code and containerization.</p>
 
 <p align="left">🔭 My current focus is finishing the new version of my portfolio and continuing to study software architecture.</p>
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">Stack and Tools 🔥</h3>
+<h3 align="left">Stack and tools 🔥</h3>
 
 ###
 
