@@ -7,30 +7,24 @@
   </a>
 </div>
 
-<div align="center">
-  <img height="200" src="https://portfolio-esdev.netlify.app/Assets/logo/Logo.png" />
-</div>
-
-###
-
-<br clear="both">
-
 <h2 align="center">Hello, my name is Eduardo Souza</h2>
-<h4 align="center">Jr. FullStack Developer working with Java/Spring and PHP/Laravel</h4>
+<h4 align="center">Full-stack Developer · Java, Spring Boot, Vue and TypeScript</h4>
+
+<p align="center">
+  <a href="https://portfolio.esdevsolutions.com.br" target="_blank">portfolio.esdevsolutions.com.br</a>
+</p>
 
 ###
 
-<p align="left">🎓 In the 3rd semester of Systems Analysis and Development (ADS) at Unijorge and working professionally with web development.</p>
+<p align="left">💼 I am a Development Analyst at ASNSoftware, where I build and maintain retail systems with integrations such as iFood, PinPDV and Evolution API. I work from the database to the interface.</p>
 
-<p align="left">💼 At Asn Software, where I'm a Jr. developer, I work across every layer of the application: I model relational databases, build the interfaces, and look after Clean Code and containerization.</p>
+<p align="left">🎓 Studying Systems Analysis and Development at Unijorge (3rd semester), with a Systems Development technical diploma from SENAC.</p>
 
-<p align="left">🔭 My current focus is finishing the new version of my portfolio and continuing to study software architecture.</p>
+<p align="left">🔭 Right now I am building a service-order system for repair shops (PHP, Laravel, Vue and TypeScript) and a 2D educational puzzle in Godot.</p>
 
-<p align="left">🎲 In my free time, you can find me reading about Stoic philosophy, marathoning The Lord of the Rings, listening to Guns N' Roses or playing a good tabletop RPG.</p>
+<p align="left">🎲 Outside of code: Stoic philosophy, The Lord of the Rings, Guns N' Roses and tabletop RPG. My portfolio is shaped like a character sheet.</p>
 
-###
-
-<br clear="both">
+> "The true value of a man lies in his capacity to overcome himself." — Nietzsche
 
 ###
 
@@ -43,13 +37,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="Spring Boot logo" title="Spring Boot"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="50" alt="PHP logo" title="PHP"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="50" alt="Laravel logo" title="Laravel"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js logo" title="Vue.js"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" alt="TypeScript logo" title="TypeScript"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="50" alt="Flutter logo" title="Flutter"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="50" alt="PHP logo" title="PHP"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="50" alt="Laravel logo" title="Laravel"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS logo" title="Tailwind CSS"/>
   <img width="12" />
@@ -60,34 +56,18 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">Contact</h3>
 
 ###
 
 <div align="left">
-  <a href="https://portfolio-esdev.netlify.app" target="_blank" title="Portfolio">
+  <a href="https://portfolio.esdevsolutions.com.br" target="_blank" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/eduardo-souza-5309b135a/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/eduardo-souza-esdev/" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=souzalimaluizeduardo@gmail.com" target="_blank" title="E-mail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<h4 align="left">Spotify's recently played tracks, in case you want to strike up a conversation and don't know how 😊</h4>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/4wnq3nwcawjvhwh0ol3274ill">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=4wnq3nwcawjvhwh0ol3274ill&count=3&unique=true" alt="Spotify recently played" />
   </a>
 </div>
