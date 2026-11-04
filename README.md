@@ -16,15 +16,15 @@
 
 ###
 
-<p align="left">💼 Sou Analista de Desenvolvimento na ASNSoftware, onde desenvolvo e mantenho sistemas para o varejo, com integrações como iFood, PinPDV e Evolution API. Trabalho do banco de dados à interface.</p>
+<p align="left">💼 Sou Analista de Desenvolvimento na ASNSoftware. Desenvolvo e mantenho sistemas para o varejo e as integrações deles com iFood, PinPDV e Evolution API, do banco de dados à interface.</p>
 
-<p align="left">🎓 Cursando Análise e Desenvolvimento de Sistemas na Unijorge (3º semestre) e Técnico em Desenvolvimento de Sistemas pelo SENAC.</p>
+<p align="left">🎓 Estudo Análise e Desenvolvimento de Sistemas na Unijorge (3º semestre) e sou técnico em Desenvolvimento de Sistemas pelo SENAC.</p>
 
-<p align="left">🔭 Agora estou construindo um sistema de ordens de serviço para assistências técnicas (PHP, Laravel, Vue e TypeScript) e um puzzle educativo 2D em Godot.</p>
+<p align="left">🔭 Tenho dois projetos em andamento: um sistema de ordens de serviço para assistências técnicas (PHP, Laravel, Vue e TypeScript) e um puzzle educativo 2D em Godot.</p>
 
-<p align="left">🎲 Fora do código: filosofia estoica, O Senhor dos Anéis, Guns N' Roses e RPG de mesa. Meu portfólio tem o formato de uma ficha de personagem.</p>
+<p align="left">🎲 Fora do código, leio sobre filosofia estoica, faço maratona de O Senhor dos Anéis, ouço Guns N' Roses e jogo RPG de mesa. Meu portfólio tem formato de ficha de personagem.</p>
 
-> "O verdadeiro valor de um homem está em sua capacidade de superar a si mesmo." — Nietzsche
+> "O verdadeiro valor de um homem está em sua capacidade de superar a si mesmo." (Nietzsche)
 
 ###
 
@@ -40,8 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js logo" title="Vue.js"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" alt="TypeScript logo" title="TypeScript"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="50" alt="Flutter logo" title="Flutter"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="50" alt="PHP logo" title="PHP"/>
   <img width="12" />
